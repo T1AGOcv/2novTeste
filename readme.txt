@@ -1,0 +1,1 @@
+Este projeto está a ser feito com o intuito de praticar o nosso conhecimento sobre Git.
